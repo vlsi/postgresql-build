@@ -1,0 +1,4 @@
+sudo: false
+language: c
+
+install: git clone --depth=1 https://github.com/postgres/postgres.git && cd postgres
